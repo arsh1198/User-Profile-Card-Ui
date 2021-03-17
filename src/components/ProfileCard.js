@@ -42,7 +42,7 @@ const ProfileCardContainer = styled.div`
     margin: auto;
     border: 5px solid white;
     position: absolute;
-    background: url(../../image-victor.jpg);
+    background: url(image-victor.jpg);
     border-radius: 50%;
     height: 100px;
     width: 100px;
@@ -97,7 +97,7 @@ const ProfileCard = () => {
     <ProfileCardContainer>
       <img
         className="CardBackground"
-        src="../../bg-pattern-card.svg"
+        src="bg-pattern-card.svg"
         alt="patternBg"
       />
       <div className="UserInfo">
@@ -119,7 +119,7 @@ const ProfileCard = () => {
         </center>
       </div>
       <div className="Stats">
-        <Stat text="80K" label="Followers" />
+        <Stat text="80k" label="Followers" />
         <Stat text="803k" label="Likes" />
         <Stat text="1.4k" label="Photos" />
       </div>

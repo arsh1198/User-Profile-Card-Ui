@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const CircleTop = styled.img.attrs((props) => ({
-  src: "../../bg-pattern-top.svg",
+  src: "bg-pattern-top.svg",
 }))`
   bottom: 38%;
   right: 51%;
@@ -9,7 +9,7 @@ export const CircleTop = styled.img.attrs((props) => ({
 `;
 
 export const CircleBottom = styled.img.attrs((props) => ({
-  src: "../../bg-pattern-bottom.svg",
+  src: "bg-pattern-bottom.svg",
 }))`
   top: 50%;
   left: 50%;
