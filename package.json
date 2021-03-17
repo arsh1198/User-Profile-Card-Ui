@@ -1,6 +1,5 @@
-{
-  "homepage": "https://turbonater.github.io/User-Profile-Card-UI-Components/",
-  "name": "profile-card",
+{ "homepage": "https://turbonater.github.io/User-Profile-Card-Ui",
+  "name": "user-profile-card",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
