@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/User-Profile-Card-Ui/static/css/main.df9ba958.chunk.css",
-    "main.js": "/User-Profile-Card-Ui/static/js/main.93f5c681.chunk.js",
-    "main.js.map": "/User-Profile-Card-Ui/static/js/main.93f5c681.chunk.js.map",
-    "runtime-main.js": "/User-Profile-Card-Ui/static/js/runtime-main.d4cb08e9.js",
-    "runtime-main.js.map": "/User-Profile-Card-Ui/static/js/runtime-main.d4cb08e9.js.map",
-    "static/js/2.4a19616f.chunk.js": "/User-Profile-Card-Ui/static/js/2.4a19616f.chunk.js",
-    "static/js/2.4a19616f.chunk.js.map": "/User-Profile-Card-Ui/static/js/2.4a19616f.chunk.js.map",
+    "main.js": "/User-Profile-Card-Ui/static/js/main.5cca17d5.chunk.js",
+    "main.js.map": "/User-Profile-Card-Ui/static/js/main.5cca17d5.chunk.js.map",
+    "runtime-main.js": "/User-Profile-Card-Ui/static/js/runtime-main.4d0eb751.js",
+    "runtime-main.js.map": "/User-Profile-Card-Ui/static/js/runtime-main.4d0eb751.js.map",
+    "static/js/2.6b86a89a.chunk.js": "/User-Profile-Card-Ui/static/js/2.6b86a89a.chunk.js",
+    "static/js/2.6b86a89a.chunk.js.map": "/User-Profile-Card-Ui/static/js/2.6b86a89a.chunk.js.map",
     "index.html": "/User-Profile-Card-Ui/index.html",
     "static/css/main.df9ba958.chunk.css.map": "/User-Profile-Card-Ui/static/css/main.df9ba958.chunk.css.map",
-    "static/js/2.4a19616f.chunk.js.LICENSE.txt": "/User-Profile-Card-Ui/static/js/2.4a19616f.chunk.js.LICENSE.txt"
+    "static/js/2.6b86a89a.chunk.js.LICENSE.txt": "/User-Profile-Card-Ui/static/js/2.6b86a89a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d4cb08e9.js",
-    "static/js/2.4a19616f.chunk.js",
+    "static/js/runtime-main.4d0eb751.js",
+    "static/js/2.6b86a89a.chunk.js",
     "static/css/main.df9ba958.chunk.css",
-    "static/js/main.93f5c681.chunk.js"
+    "static/js/main.5cca17d5.chunk.js"
   ]
 }
